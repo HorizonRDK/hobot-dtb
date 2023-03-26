@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "Start install hobot dtb: kernel device tree"
+exit 0
+
